@@ -70,18 +70,6 @@ We strive to build a **global community** of lifelong learners and passionate te
 
 ---
 
-## 👨‍💻 Developer Info
 
-**Developed & Maintaining by:**
-
-**DurgaPrasad Pandiripalli**  
-📧 Email: [durgaprasadpandiripalli@outlook.com](mailto:durgaprasadpandiripalli@outlook.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/durga-prasad-pandiripalli-5b97ab264](https://www.linkedin.com/in/durga-prasad-pandiripalli-5b97ab264)  
-🌐 Portfolio: [https://www.durgaprasadpandiripalli.me](https://www.durgaprasadpandiripalli.me)  
-💻 GitHub: [https://github.com/Durgaprasad2408/](https://github.com/Durgaprasad2408/)
-
-> Passionate Full Stack Developer | CSE Undergrad | Building meaningful web experiences through code and collaboration.
-
----
 
 Together, let’s **learn more**, **teach freely**, and **grow as one** — with **Hands United**. ✨
